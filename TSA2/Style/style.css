@@ -4,8 +4,8 @@
     --default-size: 300px;
     --default-border-width: 10px;
     --animation-timing: linear;
-    --top-down: 400px;
-    --top-up: -360px;
+    --top-down: 200px;
+    --top-up: -350px;
 }
 
 * {
